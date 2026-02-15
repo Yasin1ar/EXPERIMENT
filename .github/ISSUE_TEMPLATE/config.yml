@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📖 Documentation
+    url: https://your-docs-url.com
+    about: Check our documentation first
+  - name: 💬 Discussions
+    url: https://github.com/yourusername/yourrepo/discussions
+    about: Ask questions and discuss ideas
+  - name: 📧 Security Issues
+    url: mailto:security@yourdomain.com
+    about: Please report security vulnerabilities via email
